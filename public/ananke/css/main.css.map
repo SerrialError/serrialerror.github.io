@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/connor/git/serrialerror.github.io/mywebsite",
+	"sourceRoot": "/home/connor/git/serrialerror.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
