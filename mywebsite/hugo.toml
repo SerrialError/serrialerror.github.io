@@ -2,3 +2,6 @@ baseURL = 'https://serrialerror.github.io/'
 languageCode = 'en-us'
 title = 'SerrialError'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
