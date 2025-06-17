@@ -1,0 +1,7 @@
+[submodule "mywebsite/themes/congo"]
+	path = mywebsite/themes/congo
+	url = https://github.com/jpanther/congo.git
+	branch = stable
+[submodule "mywebsite/themes/ananke"]
+	path = mywebsite/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jun 2025 22:14:48 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 16 Jun 2025 22:14:48 -0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;This is my first post. Honestly I really needed this. Often times I rant on and on to my friends and others online about my thoughts. Othertimes I will litterally open up OBS and record myself, maybe talking, maybe working, etc. This honestly in my opinion is really good. It is a really good way to keep you on task and to express yourself in a meaningful way. Oftentimes when you are with your friend you can&amp;rsquo;t seem to get any work done (at least in my experience). Honest and good work (deep work) is done by yourself, alone. This is counterintuitive since you would think working in a group is much better. This is also true obviously as if there are two people working at the same rate they do double the work. However when you are in a call or together with friends it is hard to overcome the want to socialize. While this is great as you can decompress from work it is counterproductive. That&amp;rsquo;s why github is so good. People can work on different things at different times with branches. Eh, it looks like I&amp;rsquo;m ranting again, this was ment to be the first post. Whatever, I like it, but I will begin to consolidate my thoughts into a collection of different posts. That is a partial goal of this website, to just express what I&amp;rsquo;m thinking as I feel like I can&amp;rsquo;t meaningfully do anything without thinking it out. It&amp;rsquo;s like showing your work in math, you can&amp;rsquo;t &lt;em&gt;do&lt;/em&gt; any math without actually showing your work. Similarly you can&amp;rsquo;t really use ideas if you don&amp;rsquo;t say or conceptualize the ideas first. This idea can also be expanded for things other than ideas of projects for example to work on, but for philosophies, etc.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

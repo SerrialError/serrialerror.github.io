@@ -1,0 +1,4 @@
+baseURL = 'https://serrialerror.github.io/'
+languageCode = 'en-us'
+title = 'SerrialError'
+theme = 'ananke'
